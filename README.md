@@ -77,7 +77,7 @@ New game and changes to opponent or rules ask before discarding an unfinished ro
 
 ## Credits
 
-Last Hex is a browser adaptation by **David**, featuring additional rule variations, computer opponents, and local two-player play.
+Last Hex is a browser adaptation by **Reedhan Garg**, featuring additional rule variations, computer opponents, and local two-player play.
 
 The core game is inspired by **Black Hole**, a pen-and-paper game by **Walter Joris**. See [Ben Orlin’s description of the original game](https://mathwithbaddrawings.com/2020/04/22/six-strategic-games-from-a-strange-and-bottomless-mind/).
 
@@ -87,7 +87,7 @@ You’re welcome to use, modify, and share this project under the MIT License. W
 
 If you publish a game based on this project, a visible credit in your README, About page, or game credits would be appreciated:
 
-> Based on Last Hex by David.
+> Based on Last Hex by Reedhan Garg.
 
 Please also link to the repository you obtained this project from. This visible credit and link are requests, not additional license requirements.
 
@@ -95,6 +95,6 @@ Please also link to the repository you obtained this project from. This visible 
 
 This project's original code is licensed under the [MIT License](LICENSE).
 
-Copyright (c) 2026 David
+Copyright (c) 2026 Reedhan Garg
 
 Third-party components and assets remain subject to their respective licenses. See [third-party notices](dist/THIRD_PARTY_NOTICES.md). The license does not claim exclusive ownership of the underlying game rules.

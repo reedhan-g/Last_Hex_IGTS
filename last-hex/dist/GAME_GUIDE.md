@@ -132,11 +132,11 @@ For Vercel, keep the complete project folder, choose the Other framework preset,
 
 ## Credits and reuse
 
-Last Hex is a browser adaptation by David, featuring additional rule variations, computer opponents, and local two-player play. The core game is inspired by Black Hole, a pen-and-paper game by Walter Joris, described by Ben Orlin at Math with Bad Drawings.
+Last Hex is a browser adaptation by Reedhan Garg, featuring additional rule variations, computer opponents, and local two-player play. The core game is inspired by Black Hole, a pen-and-paper game by Walter Joris, described by Ben Orlin at Math with Bad Drawings.
 
-The original project code is licensed under the MIT License. Copyright (c) 2026 David. Include the full LICENSE file when distributing the code or substantial portions of it. A matching copy is included in dist for static hosting. The license does not claim exclusive ownership of the underlying game rules.
+The original project code is licensed under the MIT License. Copyright (c) 2026 Reedhan Garg. Include the full LICENSE file when distributing the code or substantial portions of it. A matching copy is included in dist for static hosting. The license does not claim exclusive ownership of the underlying game rules.
 
-A visible credit is appreciated: Based on Last Hex by David. Please also link to the source repository you obtained this project from. Visible credit and backlinks are optional requests under MIT; retaining the copyright and license notices is required.
+A visible credit is appreciated: Based on Last Hex by Reedhan Garg. Please also link to the source repository you obtained this project from. Visible credit and backlinks are optional requests under MIT; retaining the copyright and license notices is required.
 
 DM Sans and Space Grotesk are requested through Google Fonts under the SIL Open Font License 1.1. Their binaries are not bundled here. If you self-host the fonts, include their copyright and license notices. See THIRD_PARTY_NOTICES.md for links.
 
